@@ -93,7 +93,7 @@ architecture Behavioral of elevator_controller_fsm is
 begin
 
 	-- CONCURRENT STATEMENTS ------------------------------------------------------------------------------
-	top_floor    <= floor8;
+	top_floor    <= floor4;
 	bottom_floor <= floor1;
 	
 	-- Next State Logic            
